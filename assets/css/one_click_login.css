@@ -1,0 +1,29 @@
+.bpw_ocl_google-button {
+    height: 50px;
+    width: 100%;
+    background-color: #4285f4;
+    margin-bottom: 10px;
+}
+
+.bpw_ocl_google-button:hover {
+    box-shadow: 0 0 8px #4285f4;
+}
+
+.bpw_ocl_google-logo {
+    float: left;
+    height: 18px;
+    width: 18px;
+    background-color: #fff;
+    padding: 15px;
+    margin: 1px 0 0 1px;
+}
+
+.bpw_ocl_google-text {
+    width: 260px;
+    float: left;
+    text-align: center;
+    color: #fff;
+    margin-top: 14px;
+    font-size: 15px;
+    font-weight: bold;
+}

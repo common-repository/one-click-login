@@ -1,0 +1,11 @@
+.container-carbon_fields_container_one_click_login select {
+    max-width: none;
+}
+
+#wpcontent .cf-container .cf-field {
+    border-left: 1px solid #e2e4e7;
+}
+
+#wpcontent .cf-container .cf-complex__group-body {
+    padding-left: 42px;
+}
